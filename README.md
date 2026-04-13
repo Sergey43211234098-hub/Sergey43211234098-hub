@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi there, I'm Bummler70!
 
-<!--
-**Sergey43211234098-hub/Sergey43211234098-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧑‍💻 Web3 Explorer & Aptos Enthusiast
+Actively exploring the **Aptos** ecosystem and testing decentralized protocols.
 
-Here are some ideas to get you started:
+- 🛠 **Current Stack:** Using **Petra Wallet** to interact with dApps.
+- 🚀 **Focusing on:** Researching and testing **@shelby-protocol**.
+- 🔭 **Goal:** Learning scalable blockchain solutions and decentralized data storage.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 Web3 Activity:
+![Aptos](https://shields.io)
+![Shelby](https://shields.io)
+![Petra](https://shields.io)
+
+---
+📫 **Let's build Web3 together!** Follow me to stay updated on Aptos ecosystem explorations.
+
