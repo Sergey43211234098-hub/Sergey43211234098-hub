@@ -6,11 +6,11 @@ Actively exploring decentralized protocols and testing scalable blockchain solut
 ---
 
 ### 🚀 Active Testnet Participation:
-*   **[Shelby](https://github.com):** Testing the `shelby-quickstart` repository. Focused on real-time data serving and Aptos integration.
+*   **• Shelby: Testing the shelby-quickstart repository and committing performance benchmarks. Focused on real-time data serving.
 *   **[Walrus Protocol](https://walrus.site):** Active participant in the Sui ecosystem. Holding 2.2B WAL for decentralized storage testing.
 *   **[DeepBook](https://sui.io):** Early adopter waitlist member (#4418).
 *   **[Nexus Network](https://nexus.xyz):** Monitoring testnet status for upcoming resets.
-*   * **[Canopy Network](https://canopynetwork.org):** Successfully deployed 4 L1 chains and meme tokens (The Thinker, Fluffy Cutie, Curious Pup, Sweet Couple).
+*   * **[Canopy Network](https://canopynetwork.org):** Successfully deployed 5 L1 chains chains and meme tokens (The Thinker, Fluffy Cutie, Curious Pup, Sweet Couple, Freeze The Moment).
 
 
 ---
